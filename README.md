@@ -16,7 +16,7 @@ npm install -D babel-plugin-tsconfig-paths
 {
   "plugins": [
     [
-      "babel-plugin-tsconfig-paths",
+      "babel-plugin-tsconfig-paths-alias",
       {
         "relative": true,
         "extensions": [
