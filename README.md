@@ -1,5 +1,8 @@
 ## Babel plugin for resolving path aliases from `tsconfig.json`
 
+## Fork from [babel-plugin-tsconfig-paths](https://github.com/Js-Brecht/babel-plugin-tsconfig-paths)
+but fix the correct file extensions 
+
 ### Install
 
 ```sh
