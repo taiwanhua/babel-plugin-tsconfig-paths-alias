@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-tsconfig-paths",
+  "name": "babel-plugin-tsconfig-paths-alias",
   "version": "1.0.3",
   "description": "Resolve imports/requires based on paths from tsconfig.json",
   "main": "index",
@@ -10,15 +10,15 @@
     "index.js",
     "lib"
   ],
-  "author": "Jeremy Albright",
+  "author": "Jeremy Albright, then fix by Arhua Ho",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Js-Brecht/babel-plugin-tsconfig-paths"
+    "url": "https://github.com/taiwanhua/babel-plugin-tsconfig-paths-alias"
   },
-  "homepage": "https://github.com/Js-Brecht/babel-plugin-tsconfig-paths",
+  "homepage": "https://github.com/taiwanhua/babel-plugin-tsconfig-paths-alias",
   "bugs": {
-    "url": "https://github.com/Js-Brecht/babel-plugin-tsconfig-paths/issues"
+    "url": "https://github.com/taiwanhua/babel-plugin-tsconfig-paths-alias/issues"
   },
   "peerDependencies": {
     "@babel/core": "^7.9.0"
